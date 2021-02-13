@@ -2,7 +2,7 @@
 
 # The Case for JPM Coin
 
-![JPMCoin Jaime Daimon](/c/Users/anduc/FinTech_Case_Study/image.png)
+![JPMCoin Jaime Daimon](~/FinTech_Case_Study/image.png)
 
 ## JPM Background
 
